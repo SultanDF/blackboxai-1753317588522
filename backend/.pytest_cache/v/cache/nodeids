@@ -1,0 +1,17 @@
+[
+  "test_scheduling.py::TestIntegration::test_ahp_integration",
+  "test_scheduling.py::TestIntegration::test_method_comparison",
+  "test_scheduling.py::TestMCDMMethods::test_ahp_matrix_validation",
+  "test_scheduling.py::TestMCDMMethods::test_ahp_weight_calculation",
+  "test_scheduling.py::TestMCDMMethods::test_mcdm_engine_evaluation",
+  "test_scheduling.py::TestMCDMMethods::test_ranking",
+  "test_scheduling.py::TestMCDMMethods::test_saw_method",
+  "test_scheduling.py::TestMCDMMethods::test_topsis_method",
+  "test_scheduling.py::TestSchedulingEngine::test_constraint_checking",
+  "test_scheduling.py::TestSchedulingEngine::test_examiner_evaluation",
+  "test_scheduling.py::TestSchedulingEngine::test_examiner_selection",
+  "test_scheduling.py::TestSchedulingEngine::test_expertise_matching",
+  "test_scheduling.py::TestSchedulingEngine::test_room_evaluation",
+  "test_scheduling.py::TestSchedulingEngine::test_schedule_analysis",
+  "test_scheduling.py::TestSchedulingEngine::test_schedule_generation"
+]
